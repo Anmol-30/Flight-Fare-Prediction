@@ -10,7 +10,7 @@ DATASET
 It can be downloaded from this link: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 # Overview
-This is a flight fare predictor applicatipon created using flask.
+This is a flight fare predictor application created using flask.
 
 # References/Credits
 1. https://www.youtube.com/user/krishnaik06
