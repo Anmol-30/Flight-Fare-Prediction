@@ -17,4 +17,6 @@ This is a flight fare predictor application created using flask.
 # References/Credits
 1. https://www.youtube.com/user/krishnaik06
 2. https://github.com/Mandal-21/Flight-Price-Prediction
+
+I have opimized the model using multiple algorithms.
  
