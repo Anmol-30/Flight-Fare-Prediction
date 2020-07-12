@@ -11,7 +11,8 @@ It can be downloaded from this link: https://www.kaggle.com/nikhilmittal/flight-
 
 # Overview
 This is a flight fare predictor application created using flask.
-https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png
+<img src="https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png" title="FLASK" align="center"/>
+
 
 # References/Credits
 1. https://www.youtube.com/user/krishnaik06
